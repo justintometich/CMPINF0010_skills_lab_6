@@ -15,31 +15,48 @@ Enter names and ages as prompted by the program, and enter "Exit" (without quote
 #### Example Input and Output
 
 Please enter a name (enter Exit to stop):  Jordan
+
 Please enter your age:  20
+
 Please enter a name (enter Exit to stop):  Joe
+
 Please enter your age:  24
+
 Please enter a name (enter Exit to stop):  Rich
+
 Please enter your age:  22
+
 Please enter a name (enter Exit to stop):  Bob
+
 Please enter your age:  12
+
 Please enter a name (enter Exit to stop):  Tom
+
 Please enter your age:  8
+
 Please enter a name (enter Exit to stop):  Phil
+
 Please enter your age:  33
+
 Please enter a name (enter Exit to stop):  Exit
+
 Group 1: 
+
 {'Tom': 8}
 
 
 Group 2: 
+
 {'Bob': 12, 'Jordan': 20}
 
 
 Group 3: 
+
 {'Rich': 22, 'Joe': 24}
 
 
 Group 4: 
+
 {'Phil': 33}
 
 
